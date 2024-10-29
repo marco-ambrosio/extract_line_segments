@@ -14,12 +14,12 @@ Youtube Link: https://www.youtube.com/watch?v=EF6ovIfM_Ug
 ## Running
 
 ```bash
-$ roslaunch extract_line_segments start.launch
+$ ros2 launch extract_line_segments start.launch
 ```
 
 ## Parameters
 
-`~douglas_pecker_distance` (`double`, default: 0.1)
+`~douglas_peucker_distance` (`double`, default: 0.1)
 
 ​	Distance parameter in the Douglas-Peucker algorithm. Too high values lead to less but inaccurate line segments, too low values lead to many and small line segments.
 
