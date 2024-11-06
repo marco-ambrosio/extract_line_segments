@@ -1,4 +1,4 @@
-# LaserScan Line Segment Extraction (ROS)
+# LaserScan Line Segment Extraction (ROS 2)
 
 Line segment extraction from ROS LaserScan using [Douglas-Peucker](http://en.wikipedia.org/wiki/Ramer–Douglas–Peucker_algorithm) algorithm.
 
