@@ -27,8 +27,8 @@
   <exec_depend>pcl_msgs</exec_depend>
 
   <!-- For PCL library -->
-  <build_depend>pcl</build_depend>
-  <exec_depend>pcl</exec_depend>
+  <build_depend>pcl_ros</build_depend>
+  <exec_depend>pcl_ros</exec_depend>
 
   <!-- Export section -->
   <export>
